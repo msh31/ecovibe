@@ -6,3 +6,4 @@
 compile.bat
 src/.htaccess
 package.json
+package-lock.json
